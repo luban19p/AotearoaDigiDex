@@ -1,25 +1,25 @@
 ## Who are the Aotearoa Digital Dexterity Champions?
 
 #### University of Auckland 
-###### Stephanie Cook
-###### Claudia Adams
+##### Stephanie Cook
+##### Claudia Adams
 
 #### Auckland University of Technology
-###### Emma Chapman
+##### Emma Chapman
 
 #### University of Waikato, Hamilton
-###### Bryony Hawthorn
+##### Bryony Hawthorn
 
 #### Massey University, Palmerston North
-###### Heather Lamond
+##### Heather Lamond
 
 #### Victoria University of Wellington
-###### Marisa King
+##### Marisa King
 
 #### University of Canterbury, Christchurch
-###### Lyndsay Ainsworth 
+##### Lyndsay Ainsworth 
 
 #### Lincoln University, Christchurch: TBC
 
 #### University of Otago, Dunedin 
-###### Antje Lubcke
+##### Antje Lubcke
