@@ -8,7 +8,7 @@
 ### Auckland University of Technology
 ##### Emma Chapman
 Kia ora. I’m Emma Chapman from Auckland University of Technology Library. Here I am team leader, Information Literacy. Our team teaches information literacy skills, and we are interested in the connections of information and digital literacies, and what these things mean for people in the real material world. So I am very pleased to be in this Digital Dexterity group.
-P.S. About poi: http://poi360.nz/#!/
+P.S. About [poi](http://poi360.nz/#!/)
 
 ### University of Waikato, Hamilton
 ##### Bryony Hawthorn
@@ -40,4 +40,4 @@ I’ve been interested in things digital right from the time 30 years when as a 
 
 ### University of Otago, Dunedin 
 ##### Antje Lubcke
-Kia ora! I am a Research Services Librarian at Otago University, in Dunedin. I am also a certified Carpentries Instructor, and in this capacity assist researchers at Otago acquire data skills - I mainly teach tidy data principles and data cleaning in OpenRefine. I also help my colleagues to upskill by organising monthly software and data skills workshops.
+Kia ora! I am a Research Services Librarian at Otago University, in Dunedin. I am also a certified Carpentries Instructor, and in this capacity assist researchers at Otago acquire data skills - I mainly teach tidy data principles and data cleaning in OpenRefine. I also help my colleagues to upskill by organising monthly software and data skills workshops. For more about my unit/me: [Research Support Unit](https://otago.libguides.com/RSU/about) 
