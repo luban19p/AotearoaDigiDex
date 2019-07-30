@@ -1,7 +1,8 @@
 ## Who are the Aotearoa Digital Dexterity Champions?
 
 ### University of Auckland 
-##### Stephanie Cook [Brief intro/bio]
+##### Stephanie Cook 
+[Brief intro/bio...]
 ##### Claudia Adams
 
 ### Auckland University of Technology
