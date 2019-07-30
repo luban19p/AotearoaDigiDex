@@ -11,6 +11,7 @@ My team works across Libraries and Learning Services to design, develop, and del
 * Multimedia production
 
 ##### Claudia Adams
+I’m Claudia Adams from Libraries and Learning Services (LLS) | Te Tumu Herenga at the University of Auckland and the Team Leader - Administration Services in the Business Services team. I am responsible for the development programme relevant for all LLS staff and excited about the prospect of being involved in enhancing digital capability and skills in a changing digital world. I am also the back up Digidex Champion for my colleague, Stephanie Cook.
 
 ### Auckland University of Technology
 ##### Emma Chapman
