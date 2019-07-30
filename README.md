@@ -40,4 +40,4 @@ I’ve been interested in things digital right from the time 30 years when as a 
 
 ### University of Otago, Dunedin 
 ##### Antje Lubcke
-Kia ora! I am a Research Services Librarian at Otago University, in Dunedin. I am also a certified Carpentries Instructor, and in this capacity assist researchers at Otago acquire data skills - I mainly teach tidy data principles and data cleaning in OpenRefine. I also help my colleagues to upskill by organising monthly software and data skills workshops. For more about my unit/me: [Research Support Unit](https://otago.libguides.com/RSU/about) 
+Kia ora! I am a Research Services Librarian at Otago University, in Dunedin. I am also a certified Carpentries Instructor, and in this capacity assist researchers at Otago acquire data skills - I mainly teach tidy data principles and data cleaning in OpenRefine. I also help my colleagues to upskill by organising monthly software and data skills workshops. For more about my unit at Otago Library: [Research Support Unit](https://otago.libguides.com/RSU/about) 
