@@ -17,7 +17,9 @@ I’m Claudia Adams from Libraries and Learning Services (LLS) | Te Tumu Herenga
 
 ### Auckland University of Technology
 #### Emma Chapman
-Kia ora. I’m Emma Chapman from Auckland University of Technology Library. Here I am team leader, Information Literacy. Our team teaches information literacy skills, and we are interested in the connections of information and digital literacies, and what these things mean for people in the real material world. So I am very pleased to be in this Digital Dexterity group.
+Kia ora. I’m Emma Chapman from Auckland University of Technology Library. Here I am team leader, Information Literacy. Our team teaches information literacy skills, and we are interested in the connections of information and digital literacies, and what these things mean for people in the real material world. So I am very pleased to be in this Digital Dexterity group. I made this poi (see video above) with some students in a library introduction class, in our library makerspace.
+Kia pai tō rā – have a nice day.
+
 P.S. About [poi](http://poi360.nz/#!/)
 
 ### University of Waikato, Hamilton
