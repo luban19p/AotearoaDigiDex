@@ -1,5 +1,7 @@
 ## Who are the Aotearoa Digital Dexterity Champions?
 
+https://youtu.be/ItTvS9NYotk
+
 ### University of Auckland 
 #### Stephanie Cook 
 Kia ora! I’m Steph Cook and I am team leader for the Online Resources team, Libraries and Learning Services | Te Tumu Herenga at the University of Auckland. This is a new role for me and a brand new team – we have only been operational since October 2018. 
